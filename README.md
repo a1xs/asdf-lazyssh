@@ -9,3 +9,10 @@ asdf plugin for lazyssh
 
 ```bash
 asdf plugin add lazyssh https://github.com/a1xs/asdf-lazyssh
+```
+
+## Install app
+
+```bash
+asdf install lazyssh 0.3.0
+```
